@@ -1,0 +1,8 @@
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\bin\Debug\GetDataActiveDirectory.exe.config
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\bin\Debug\GetDataActiveDirectory.exe
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\bin\Debug\GetDataActiveDirectory.pdb
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\obj\Debug\GetDataActiveDirectory.csproj.AssemblyReference.cache
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\obj\Debug\GetDataActiveDirectory.csproj.SuggestedBindingRedirects.cache
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\obj\Debug\GetDataActiveDirectory.csproj.CoreCompileInputs.cache
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\obj\Debug\GetDataActiveDirectory.exe
+C:\Users\herna\source\repos\GetDataActiveDirectory\GetDataActiveDirectory\obj\Debug\GetDataActiveDirectory.pdb
